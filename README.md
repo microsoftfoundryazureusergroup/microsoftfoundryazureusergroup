@@ -66,6 +66,7 @@ Founder profile highlights:
 - WhatsApp: [Microsoft Foundry & Azure User Group](https://chat.whatsapp.com/Jqj6DSvgIWa8abbDQSZcEs?mode=gi_t)
 - YouTube Community: [Microsoft Foundry & Azure User Group's Community](https://www.youtube.com/channel/UC6a7uhcNNeejAQkn0xZRFGg/community)
 - Instagram: [Microsoft Foundry & Azure UG](https://www.instagram.com/microsoftfoundryazureug)
+- X:  [Microsoft Foundry And Azure User Group](https://www.x.com/mfaaug)
 
 ## Why Join
 
