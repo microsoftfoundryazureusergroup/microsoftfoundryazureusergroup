@@ -45,18 +45,18 @@ Whether you are just getting started with Azure or already building advanced sol
 
 We run a mix of online and community events that encourage learning and connection. Recent topics and event themes have included Microsoft Foundry, Azure Skills, observability, AI gateways, and Microsoft Build local community engagement.
 
-## Founder
+## Community Lead
 
-This community was founded by [Promise Uche Nwachukwu](https://github.com/promiseuche), a Microsoft Azure Most Valuable Professional (MVP) and senior cloud and DevOps consultant with more than a decade of experience building secure, scalable solutions across the financial and IT sectors.
+This community was founded by **Promise Uche Nwachukwu**, a Microsoft Azure Most Valuable Professional (MVP) and senior cloud and DevOps consultant with more than a decade of experience building secure, scalable solutions across the financial and IT sectors.
 
 Through his work in cloud infrastructure, Azure DevOps, automation, security, and solution delivery, he brings a practical, implementation-focused perspective to the community. His public profile also reflects a broader commitment to ecosystem leadership, collaboration, and helping professionals build stronger Microsoft cloud capabilities.
 
 Founder profile highlights:
 
 - Founder: [Promise Uche Nwachukwu](https://github.com/promiseuche)
-- Role focus: Cloud, DevOps, infrastructure, automation, and security
+- Role focus: Cloud, DevOps, Infrastructure, Automation, and Security
 - Recognition: Microsoft Azure MVP
-- Community interest: Knowledge sharing, technical collaboration, and professional development
+- Community interest: Knowledge sharing, Technical collaboration, and Professional development
 
 ## Connect With Us
 
